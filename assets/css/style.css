@@ -1,0 +1,140 @@
+.main {
+    border: 1px solid red;
+
+}
+
+#mainpage, #Difficulty_choose {
+    text-align: center;
+    width: 40%;
+    height: 100vh;
+    border: 1px solid white;
+    background-color: rgb(159, 74, 116);
+}
+
+.headername {
+    margin-top: 100px;
+    font-size: 50px;
+    color: yellow;
+    font-weight: bold;
+
+}
+
+.selectname {
+    margin-top: 100px;
+}
+
+.name {
+    font-size: 30px;
+    color: white;
+    vertical-align: middle;
+}
+
+.inputname {
+    border-bottom: 2px dotted white;
+    height: 30px;
+
+}
+
+.next {
+    margin-top: 50px;
+    background-color: white; /* Green */
+    border: none;
+    color: black;
+    padding: 2px 50px 2px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    cursor: pointer;
+    border-radius: 15px;
+}
+.next1 {
+    margin-top: 50px;
+    background-color: white; /* Green */
+    border: none;
+    color: black;
+    width:200px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+.difficulty {
+    font-size: 50px;
+    margin-top: 25vh;
+    font-weight: bold;
+    color: white;
+}
+
+#name {
+    border: none;
+    color: white;
+    font-size: 26px;
+    width: 30%;
+    background: transparent;
+    border-bottom: dashed 3px white;
+}
+
+img#logo {
+    width: 20%;
+}
+
+img#letter {
+    width: 40%;
+}
+
+.difficulty_item {
+    width: 100%;
+    height: 40px;
+    font-size: 20px;
+    color: #ff4895;
+}
+
+.table_difficulty {
+    width: 80%;
+    margin-left: 10%;
+    border-spacing: 10px;
+}
+
+.table_difficulty td {
+    width: 100px;
+}
+
+.main_header {
+    border: 1px solid black;
+    padding: 20px;
+}
+
+#game_page {
+    width: 40%;
+    height: 100vh;
+    margin: auto;
+}
+
+.timeframe {
+    font-size: 2vw;
+    padding: 0 15px;
+    background-color: yellow;
+    display: flow-root;
+    color: rgb(159, 74, 116);
+}
+
+.timeframe img#logo {
+    width: 15%;
+}
+
+.game_style {
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 25px;
+    border-spacing: 15px;
+}
+
+.game_style td {
+    border: 1px solid black;
+}
+
+
